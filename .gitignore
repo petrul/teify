@@ -1,0 +1,13 @@
+.venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+dist/
+normalized_fodt/
+tei_output/
+
+samples/
+
+vendor/
+output/
+reports/

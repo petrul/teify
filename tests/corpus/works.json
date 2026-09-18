@@ -1,0 +1,146 @@
+[
+  {
+    "id": "chesterton-translated-novel",
+    "source": "chesterton_il_napoleone_di_notting_hill.odt",
+    "title": "Il Napoleone di Notting Hill",
+    "authors": [
+      "Chesterton, Gilbert Keith"
+    ],
+    "translators": [
+      "Dàuli, Gian"
+    ],
+    "editors": [],
+    "filename": "chesterton,gilbert_keith-il_napoleone_di_notting_hill.tei.xml",
+    "headings": 21,
+    "notes": 2,
+    "tables": 0,
+    "graphics": 1,
+    "stanzas": 0,
+    "verse_lines": 0,
+    "depth": 2,
+    "heading_path": [
+      "Libro primo",
+      "I. Osservazioni preliminari sull'arte di fare il profeta"
+    ]
+  },
+  {
+    "id": "darwin-illustrated-science",
+    "source": "darwin_sulla_struttura_e_distribuzione_dei_banchi_di_corallo.odt",
+    "title": "Sulla struttura e distribuzione dei banchi di corallo e delle isole madreporiche",
+    "authors": [
+      "Darwin, Charles"
+    ],
+    "translators": [
+      "Canestrini, Giovanni e Riccardo"
+    ],
+    "editors": [
+      "Canestrini, Giovanni e Riccardo"
+    ],
+    "filename": "darwin,charles-sulla_struttura_e_distribuzione_dei_banchi_di_corallo_e_delle_isole_madreporiche.tei.xml",
+    "headings": 51,
+    "notes": 178,
+    "tables": 2,
+    "graphics": 28,
+    "stanzas": 0,
+    "verse_lines": 0,
+    "depth": 2,
+    "heading_path": [
+      "CAPITOLO I.ATOLL O ISOLE-LAGUNE.",
+      "Sezione Prima. – Atoll Keeling."
+    ]
+  },
+  {
+    "id": "gioberti-deep-outline",
+    "source": "gioberti_del_primato_morale_e_civile_3.odt",
+    "title": "Del primato morale e civile degli italiani vol. 3",
+    "authors": [
+      "Gioberti, Vincenzo"
+    ],
+    "translators": [],
+    "editors": [
+      "Balsamo-Crivelli, Gustavo"
+    ],
+    "filename": "gioberti,vincenzo-del_primato_morale_e_civile_degli_italiani_vol_3.tei.xml",
+    "headings": 72,
+    "notes": 200,
+    "tables": 0,
+    "graphics": 3,
+    "stanzas": 0,
+    "verse_lines": 0,
+    "depth": 3,
+    "heading_path": [
+      "[PARTE SECONDA]",
+      "VII. – L’ITALIA È PRINCIPE NELLE ARTI BELLE E NELLE LETTERE AMENE",
+      "Dell’ingegno estetico degli Etruscopelasghi."
+    ],
+    "first_heading_original_level": 2
+  },
+  {
+    "id": "sabbadini-missing-top-level",
+    "source": "sabbadini_vita_di_guarino_veronese.odt",
+    "title": "Vita di Guarino Veronese",
+    "authors": [
+      "Sabbadini, Remigio"
+    ],
+    "translators": [],
+    "editors": [],
+    "filename": "sabbadini,remigio-vita_di_guarino_veronese.tei.xml",
+    "headings": 10,
+    "notes": 0,
+    "tables": 0,
+    "graphics": 2,
+    "stanzas": 0,
+    "verse_lines": 0,
+    "depth": 1,
+    "heading_path": [
+      "VITA DI GUARINO VERONESE"
+    ],
+    "first_heading_original_level": 2,
+    "svg_drawings": 1
+  },
+  {
+    "id": "zagarrio-poetry",
+    "source": "zagarrio_poesie_e_liriche.odt",
+    "title": "Poesie e liriche",
+    "authors": [
+      "Zagarrio, Biagio"
+    ],
+    "translators": [],
+    "editors": [],
+    "filename": "zagarrio,biagio-poesie_e_liriche.tei.xml",
+    "headings": 105,
+    "notes": 0,
+    "tables": 0,
+    "graphics": 2,
+    "stanzas": 356,
+    "verse_lines": 1797,
+    "depth": 1,
+    "heading_path": [
+      "\"Ghibli\""
+    ]
+  },
+  {
+    "id": "bracco-drama",
+    "source": "bracco_il_perfetto_amore.odt",
+    "title": "Il perfetto amore",
+    "authors": [
+      "Bracco, Roberto"
+    ],
+    "translators": [],
+    "editors": [],
+    "filename": "bracco,roberto-il_perfetto_amore.tei.xml",
+    "headings": 9,
+    "notes": 0,
+    "tables": 0,
+    "graphics": 1,
+    "stanzas": 0,
+    "verse_lines": 0,
+    "depth": 2,
+    "speeches": 759,
+    "stage_directions": 435,
+    "heading_path": [
+      "ATTO PRIMO.",
+      "SCENA UNICA."
+    ]
+  }
+]

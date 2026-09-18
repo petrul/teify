@@ -1,0 +1,21 @@
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
+
+[project]
+name = "teify"
+version = "0.1.0"
+description = "Convert ODT and FODT books to validated TEI with metadata and formatting preservation"
+requires-python = ">=3.11"
+dependencies = ["lxml>=5"]
+
+[project.scripts]
+teify = "teify.cli:main"
+
+[dependency-groups]
+dev = ["pytest>=8"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+
+markers = ["corpus: local representative books (not distributed with the project)"]
